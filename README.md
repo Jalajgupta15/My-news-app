@@ -7,12 +7,14 @@ Welcome to the Local Language News App, a cutting-edge Streamlit application des
 3. **User-Friendly Interface:** An intuitive layout makes navigation seamless, ensuring an engaging reading experience.
 4. **Customizable Background:** Enjoy a visually appealing backdrop that enhances your reading experience.
 
-# Screenshot 📸
+# Screenshot 
 Showcasing the language selection and displayed news articles.
+![image](https://github.com/user-attachments/assets/70fbb29b-c373-4ca4-93c6-03b6c08ce9ed)
+![image](https://github.com/user-attachments/assets/e75549bb-851b-4ea8-9c8e-ae9e33011622)
+![image](https://github.com/user-attachments/assets/260c2087-245c-4bcb-9f58-da68a55fc587)
+![image](https://github.com/user-attachments/assets/25212b0a-a720-49cc-81f7-bbad322d33c1)
 
-# Demo Video🎥
-Watch the Demo Video
-Experience how easy it is to select your language and explore top news stories in just a few clicks!
+
 
 # 🛠️ How to Get Started
 
