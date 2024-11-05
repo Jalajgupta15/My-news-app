@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My News App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <h1>My News App</h1>
+        <p>An app that provides news updates in your local language.</p>
+        <p>Stay informed with the latest news headlines in your preferred languages from across India.</p>
+        <p>Select from a range of Indian languages, and explore top stories tailored to your region.</p>
+
+        <!-- Language Selection Dropdown -->
+        <label for="language-select">Select Languages:</label>
+        <select id="language-select" multiple>
+            <option value="ta">Tamil</option>
+            <option value="kn">Kannada</option>
+            <option value="mr">Marathi</option>
+            <option value="gu">Gujarati</option>
+            <option value="hi">Hindi</option>
+            <option value="bn">Bengali</option>
+            <option value="pa">Punjabi</option>
+            <option value="te">Telugu</option>
+            <option value="ml">Malayalam</option>
+            <option value="ur">Urdu</option>
+        </select>
+        <button onclick="fetchNews()">Fetch News</button>
+
+        <!-- News Display Section -->
+        <div id="news-container"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
