@@ -2,10 +2,10 @@
 Welcome to the Local Language News App, a cutting-edge Streamlit application designed to bring the latest news headlines right to your fingertips in your preferred Indian languages! This app empowers users to stay connected with their communities by offering real-time news updates tailored to regional preferences.
 
 # Key Features✨
-Multilingual Support: Choose from a variety of Indian languages, including Tamil, Kannada, Marathi, Gujarati, Hindi, Bengali, and more!
-Real-Time News: Get access to the latest headlines from trusted news sources across India.
-User-Friendly Interface: An intuitive layout makes navigation seamless, ensuring an engaging reading experience.
-Customizable Background: Enjoy a visually appealing backdrop that enhances your reading experience.
+**Multilingual Support:** Choose from a variety of Indian languages, including Tamil, Kannada, Marathi, Gujarati, Hindi, Bengali, and more!
+**Real-Time News:** Get access to the latest headlines from trusted news sources across India.
+**User-Friendly Interface:** An intuitive layout makes navigation seamless, ensuring an engaging reading experience.
+**Customizable Background:** Enjoy a visually appealing backdrop that enhances your reading experience.
 
 # Screenshot 📸
 Showcasing the language selection and displayed news articles.
@@ -16,14 +16,14 @@ Experience how easy it is to select your language and explore top news stories i
 
 # 🛠️ How to Get Started
 
-1. Clone the Repository:
+**1. Clone the Repository:**
 git clone https://github.com/yourusername/local-language-news-app.git
 cd local-language-news-app
 
-2. Install Dependencies:
+**2. Install Dependencies:**
 pip install -r requirements.txt
 
-3. Run the Application:
+**3. Run the Application:**
 streamlit run app.py
 
 # 🚀 Engage with Us
