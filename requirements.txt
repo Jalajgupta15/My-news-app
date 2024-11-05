@@ -1,0 +1,5 @@
+# Core libraries required for the Streamlit app
+streamlit==1.25.0
+
+# Library for making HTTP requests to fetch data from APIs
+requests==2.31.0
